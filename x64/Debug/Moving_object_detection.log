@@ -1,0 +1,4 @@
+﻿  Moving_object_detection.cpp
+C:\Users\Tiam\Desktop\Moving_Object_Detection\Moving_object_detection.cpp(56,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tiam\Desktop\Moving_Object_Detection\Moving_object_detection.cpp(57,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Moving_object_detection.vcxproj -> C:\Users\Tiam\Desktop\Moving_Object_Detection\x64\Debug\Moving_object_detection.exe
